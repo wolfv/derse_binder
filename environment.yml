@@ -1,0 +1,13 @@
+name: derse_binder
+channels:
+  - conda-forge
+dependencies:
+  - xwidgets
+  - ipywidgets
+  - xleaflet
+  - ipyleaflet
+  - xplot=0.12.0
+  - xeus-cling
+  - bqplot=0.11.5
+  - numpy
+  - widgetsnbextension >=3.0.0
