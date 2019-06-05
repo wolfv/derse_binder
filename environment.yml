@@ -10,4 +10,5 @@ dependencies:
   - xeus-cling
   - bqplot=0.11.5
   - numpy
+  - rise
   - widgetsnbextension >=3.0.0
